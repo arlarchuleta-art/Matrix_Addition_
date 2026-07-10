@@ -1,7 +1,9 @@
 // Adam Archuleta
 // July 2026
 // Concurrency: Matrix Addition
-// Citation: AI tools were used to help troubleshoot the initial threading logic and file parsing. I have manually reviewed, tested, and updated the code myself to fit the assignment requirements.
+// Citation: AI tools were used to help troubleshoot the initial threading 
+// logic and file parsing. I have manually reviewed, tested, and updated the
+// code myself to fit the assignment requirements.
 //
 // Assignment Question Answer: 
 // Q: How do we handle concurrent operations safely in this program?
@@ -14,6 +16,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
